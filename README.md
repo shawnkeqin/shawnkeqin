@@ -36,19 +36,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-
-
-</details>
 
 [website]: https://shawnlim.dev/
 [linkedin]: https://www.linkedin.com/in/shawnlimkeqin/

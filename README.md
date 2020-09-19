@@ -2,7 +2,7 @@
 
 ## I'm a NUS Graduate, Software Engineer and Javascript Developer!
 
-- 🔭 I’m currently working on a Flock!
+- 🔭 I’m currently working on Flock!
 - 🌱 I’m currently learning everything from development to scalability.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Start working on more freelance projects.

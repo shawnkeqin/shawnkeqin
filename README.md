@@ -1,6 +1,6 @@
 ### Hi there, I'm Shawn 👋
 
-## I'm a NUS Graduate, Software Engineer
+## I'm a NUS Graduate and Software Engineer
 
 - 🔭 Coding everyday 
 

@@ -1,6 +1,6 @@
 ### Hi there, I'm Shawn - aka [devtoohard] 👋
 
-## I'm a NUS Graduate, Software Engineer and Javascript Developer!
+## I'm a NUS Graduate, Software Engineer
 
 - 🔭 Coding everyday 
 

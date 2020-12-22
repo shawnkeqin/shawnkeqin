@@ -1,4 +1,4 @@
-### Hi there, I'm Shawn - aka [devtoohard] 👋
+### Hi there, I'm Shawn 👋
 
 ## I'm a NUS Graduate, Software Engineer
 

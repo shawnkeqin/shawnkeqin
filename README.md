@@ -2,7 +2,7 @@
 
 ## I'm a NUS Graduate and Software Engineer
 
-- 🔭 Coding everyday 
+- 🔭 Just coding...
 
 ### Connect with me:
 

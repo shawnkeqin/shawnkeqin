@@ -2,7 +2,7 @@
 
 ## I'm a NUS Graduate and Software Engineer
 
-- 🔭 Full Stack Software Engineer. ( Microservices, Docker, Kubernetes, Typescript, React, MobX, Node.js, NestJS, TypeORM/ Postgres )
+- 👨‍💻 Full Stack Software Engineer. ( Microservices, Docker, Kubernetes, Typescript, React, MobX, Node.js, NestJS, TypeORM/ Postgres )
 
 ### Connect with me:
 

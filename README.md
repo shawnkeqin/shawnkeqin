@@ -5,7 +5,7 @@
 - 👨‍💻 Full Stack Software Engineer
 - Reading about scalability and distributed systems
 - Algorithms and data structures for fun 
-- Rejected full time offers from JP Morgan, PayPal and Huawei for CoverWallet! 😁
+- Rejected full time offers from JP Morgan, PayPal and Huawei for CoverWallet 😁
 
 ### Connect with me:
 

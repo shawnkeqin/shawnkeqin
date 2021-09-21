@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer at CoverWallet
 
-- 👨‍💻 Full Stack Software Engineer. ( Microservices, Docker, Kubernetes, Typescript, React, MobX, Node.js, NestJS, TypeORM/ Postgres )
+- 👨‍💻 Full Stack Software Engineer
 - Reading about scalability and distributed systems
 - Algorithms and data structures for fun 
 - Rejected full time offers from JP Morgan, PayPal and Huawei for CoverWallet! 😁

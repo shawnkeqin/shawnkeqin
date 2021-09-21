@@ -1,8 +1,10 @@
 ### Hi there, I'm Shawn 👋
 
-## I'm a NUS Graduate and Software Engineer
+## I'm a Software Engineer at CoverWallet
 
+- Fun Facts:
 - 👨‍💻 Full Stack Software Engineer. ( Microservices, Docker, Kubernetes, Typescript, React, MobX, Node.js, NestJS, TypeORM/ Postgres )
+- Rejected full time offers from JP Morgan, PayPal and Huawei for CoverWallet! 😁
 
 ### Connect with me:
 

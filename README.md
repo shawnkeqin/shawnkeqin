@@ -6,7 +6,7 @@
 - Graduated from NUS 🏫
 - Reading about scalability and distributed systems 📚
 - Algorithms and data structures for fun 🤓
-- Rejected full time offers from JP Morgan, PayPal and Huawei for learning and growth 📈
+- Rejected full time offers from JP Morgan, PayPal and Huawei 📈
 
 ### Connect with me:
 

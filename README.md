@@ -1,6 +1,6 @@
 ### Hi there, I'm Shawn 👋
 
-## I'm a Software Engineer at CoverWallet ⚡️
+## I'm a Software Engineer at @CoverWallet 
 
 - Full Stack Software Engineer 👨‍💻 
 - Graduated from NUS 🏫

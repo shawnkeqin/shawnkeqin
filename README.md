@@ -3,10 +3,10 @@
 ## I'm a Software Engineer at @CoverWallet 
 
 - Full Stack Software Engineer 👨‍💻 
-- Graduated from NUS 🏫
+- Graduated from the National University Of Singapore (NUS) 🏫
 - Reading about scalability and distributed systems 📚
-- Algorithms and data structures for fun 🤓
 - Rejected full time offers from JP Morgan, PayPal and Huawei for learning and growth 📈
+- Drop me an email at shawnlimkq95@gmail.com for projects you would like to collaborate in! 
 
 ### Connect with me:
 

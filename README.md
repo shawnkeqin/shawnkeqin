@@ -6,7 +6,8 @@
 - Graduated from the National University Of Singapore (NUS) 🏫
 - Reading about scalability and distributed systems 📚
 - Rejected full time offers from JP Morgan, PayPal and Huawei for learning and growth 📈
-- Drop me an email at shawnlimkq95@gmail.com for projects you would like to collaborate in! 
+- Email me at shawnlimkq95@gmail.com
+- Currently building... 
 
 ### Connect with me:
 

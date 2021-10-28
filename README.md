@@ -7,8 +7,8 @@
 - Reading about scalability and distributed systems 📚
 - Rejected full time offers from JP Morgan, PayPal and Huawei for learning and growth 📈
 - Email me at shawnlimkq95@gmail.com
-- Founder + Engineer at 🚀 moon : https://tomoonz.com/ 
-- Engineering something new... 
+- Founder/Engineer at 🚀 moon : https://tomoonz.com/ 
+- Building something new... 
 
 ### Connect with me:
 

@@ -6,8 +6,6 @@
 - Graduated from the National University Of Singapore (NUS) 🏫
 - Reading about scalability and distributed systems 📚
 - Email me at shawnlimkq95@gmail.com
-- Founder/Engineer at 🚀 moon : tomoonz.com/
-- Founder/Engineer at 👭 frens (in development)
 
 ### Connect with me:
 

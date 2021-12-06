@@ -5,6 +5,7 @@
 - Full Stack Software Engineer 👨‍💻 
 - Graduated from the National University Of Singapore (NUS) 🏫
 - Reading about scalability and distributed systems 📚
+- Declined offers from JP Morgan, Paypal and Huawei for Learning and Growth 🙌
 - Email me at shawnlimkq95@gmail.com
 
 ### Connect with me:

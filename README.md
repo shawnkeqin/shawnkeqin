@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Software Engineer
 
-- Full Stack Software Engineer 👨‍💻 building...
+- Full Stack Software Engineer building something great with a group of amazing people ❤️
 
 ### Connect with me:
 

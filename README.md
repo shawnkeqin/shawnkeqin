@@ -1,6 +1,7 @@
 ### Hi there, I'm Shawn 👋
 
 ## I'm a Software Engineer + Web3 Developer 🔮
+- Coding...
 
 ### Connect with me:
 

@@ -1,8 +1,8 @@
 ### Hi there, I'm Shawn 👋
 
-## I'm a Full Stack Software Engineer
+## I'm a Software Engineer + Web3 Developer
 
-- Full Stack Software Engineer building something great with a group of amazing people ❤️
+- Software Engineer building something great with a group of amazing people ❤️
 
 ### Connect with me:
 

@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
 <h3 align="center">An experienced full stack engineer</h3>
+<p align="center">
 <img align="center" alt="nft" width="400" src="https://user-images.githubusercontent.com/44067954/198819137-d61f18a8-2d6a-4921-a203-4ca7122ba718.jpeg">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnkeqin&label=Profile%20views&color=0e75b6&style=flat" alt="shawnkeqin" /> </p>
 

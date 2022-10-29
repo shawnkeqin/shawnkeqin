@@ -1,6 +1,6 @@
-![photo_2022-03-16 03 26 48](https://user-images.githubusercontent.com/44067954/198819137-d61f18a8-2d6a-4921-a203-4ca7122ba718.jpeg)
 <h1 align="center">Hi 👋, I'm Shawn</h1>
 <h3 align="center">An experienced full stack engineer</h3>
+<img align="right" alt="nft" width="400 src="https://user-images.githubusercontent.com/44067954/198819137-d61f18a8-2d6a-4921-a203-4ca7122ba718.jpeg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnkeqin&label=Profile%20views&color=0e75b6&style=flat" alt="shawnkeqin" /> </p>
 

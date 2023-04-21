@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnkeqin&label=Profile%20views&color=0e75b6&style=flat" alt="shawnkeqin" /> </p>
 
-- 🌱 I’m currently learning **web3**
+- 🌱 **Full stack developer**
 
 - 💬 Ask me about **react, nodejs, graphql, docker, kubernetes, testing**
 

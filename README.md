@@ -7,10 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnkeqin&label=Profile%20views&color=0e75b6&style=flat" alt="shawnkeqin" /> </p>
 
 - 🌱 **Full stack developer**
+  
+- https://developerlim.com/
 
 - 💬 Ask me about **react, nodejs, graphql, docker, kubernetes, testing**
 
-- 📫 How to reach me **shawnlimkq95@gmail.com**
+- 📫 How to reach me **shawnlkqcore@gmail.com**
 
 <p align="left">
 </p>

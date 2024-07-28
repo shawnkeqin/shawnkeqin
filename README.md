@@ -8,9 +8,9 @@
 
 - 🌱 **Full stack developer**
   
-- https://developerlim.com/
+- 📖 https://developerlim.com/
 
-- 💬 Ask me about **react, nodejs, graphql, docker, kubernetes, testing**
+- 💬 Feel free to reach out to me, happy to help you
 
 - 📫 How to reach me **shawnlkqcore@gmail.com**
 

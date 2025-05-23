@@ -12,7 +12,7 @@
 
 - 💬 Feel free to reach out to me, happy to help you
 
-- 📫 How to reach me **shawnlkqcore@gmail.com**
+- 📫 How to reach me **slkq.dev@gmail.com**
 
 <p align="left">
 </p>
